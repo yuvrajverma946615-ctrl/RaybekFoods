@@ -205,9 +205,9 @@ export default function Contact() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             {[
               "https://images.unsplash.com/photo-1589923188900-85dae523342b?q=80&w=800&auto=format&fit=crop",
-              "https://images.unsplash.com/photo-1621252178044-f28ea969a5a3?q=80&w=800&auto=format&fit=crop",
+              "https://images.unsplash.com/photo-1556910103-1c02745aae4d?q=80&w=800&auto=format&fit=crop",
               "https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=800&auto=format&fit=crop",
-              "https://images.unsplash.com/photo-1605333396914-25e408db0e34?q=80&w=800&auto=format&fit=crop"
+              "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=800&auto=format&fit=crop"
             ].map((img, i) => (
               <motion.div 
                 key={i}
